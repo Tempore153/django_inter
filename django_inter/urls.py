@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from . import views
-from . import func
+
 
 urlpatterns = [
     path('paraphrase/', views.paraphrase, name='paraphrase'),
