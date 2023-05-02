@@ -1,9 +1,11 @@
 # django_inter
+start instructions
+
 
 install python
 install django
 download zip file
-opet folder
+open folder
 python manage.py runserver
 
-http://127.0.0.1:8000/paraphrase/?tree={your tree}&limit=20
+http://{localhost}/paraphrase/?tree={your tree}&limit=20
