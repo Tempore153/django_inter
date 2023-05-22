@@ -1,4 +1,6 @@
-# django_inter
+# django_nltk
+It is used to find all possible unique constructions of a sentence.
+
 start instructions
 
 
